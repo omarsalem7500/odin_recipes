@@ -2,19 +2,24 @@
     background-color: red;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    
+    padding:8px;
+    border:2px;
+    border-style: dotted;
 }
 
 .Secondary_Title {
     background-color: green;
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    
 }
 
 .link {
     font-weight: bold;
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: inline;
 }
 
 .title {
@@ -66,4 +71,14 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 
 .body {
     background-color: aquamarine;
+}
+
+.gif {
+    margin: auto 0;
+    text-align: center;
+}
+
+.linklist {
+    display:inline-block;
+    width: 0;;
 }
